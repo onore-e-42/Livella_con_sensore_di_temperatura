@@ -1,0 +1,188 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\Giorgio\Dropbox\project\EMBEDDEDDDDDDDDD\ProgettoLivellaTeperaturaEsame.uvproj
+Project File Date:  05/15/2014
+
+<h2>Output:</h2>
+Rebuild target 'Target 1'
+compiling ProgettoLivellaTemperauraEsame.c...
+..\Sistemi Embended\ProgettoLivellaTemperauraEsame.c(3): error C129: missing ';' before '0xFE00'
+Target not created
+Rebuild target 'Target 1'
+compiling ProgettoLivellaTemperauraEsame.c...
+..\Sistemi Embended\ProgettoLivellaTemperauraEsame.c(3): error C129: missing ';' before '0xFE00'
+Target not created
+Build target 'Target 1'
+compiling ProgettoLivellaTemperauraEsame.c...
+..\Sistemi Embended\ProgettoLivellaTemperauraEsame.c(13): error C141: syntax error near 'void'
+Target not created
+Build target 'Target 1'
+compiling ProgettoLivellaTemperauraEsame.c...
+..\Sistemi Embended\ProgettoLivellaTemperauraEsame.c(21): warning C206: 'LCD_Write': missing function-prototype
+..\Sistemi Embended\ProgettoLivellaTemperauraEsame.c(82): error C231: 'LCD_Write': redefinition
+Target not created
+Rebuild target 'Target 1'
+compiling ProgettoLivellaTemperauraEsame.c...
+..\Sistemi Embended\ProgettoLivellaTemperauraEsame.c(5): error C141: syntax error near 'void'
+Target not created
+Rebuild target 'Target 1'
+compiling ProgettoLivellaTemperauraEsame.c...
+..\Sistemi Embended\ProgettoLivellaTemperauraEsame.c(84): warning C206: 'LCD_Busy': missing function-prototype
+..\Sistemi Embended\ProgettoLivellaTemperauraEsame.c(85): error C141: syntax error near '.5'
+..\Sistemi Embended\ProgettoLivellaTemperauraEsame.c(88): error C231: 'LCD_Busy': redefinition
+..\Sistemi Embended\ProgettoLivellaTemperauraEsame.c(89): error C141: syntax error near '.7'
+..\Sistemi Embended\ProgettoLivellaTemperauraEsame.c(89): error C141: syntax error near ')'
+..\Sistemi Embended\ProgettoLivellaTemperauraEsame.c(92): error C231: 'LCD_Busy': redefinition
+Target not created
+Rebuild target 'Target 1'
+compiling ProgettoLivellaTemperauraEsame.c...
+..\Sistemi Embended\ProgettoLivellaTemperauraEsame.c(84): warning C206: 'LCD_Busy': missing function-prototype
+..\Sistemi Embended\ProgettoLivellaTemperauraEsame.c(88): error C231: 'LCD_Busy': redefinition
+..\Sistemi Embended\ProgettoLivellaTemperauraEsame.c(92): error C231: 'LCD_Busy': redefinition
+Target not created
+Rebuild target 'Target 1'
+compiling ProgettoLivellaTemperauraEsame.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?INIT_DEVICE?PROGETTOLIVELLATEMPERAURAESAME
+Program Size: data=9.0 xdata=0 code=108
+"ProgettoLivellaTeperaturaEsame" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\Giorgio\\Dropbox\\project\\EMBEDDEDDDDDDDDD\\ProgettoLivellaTeperaturaEsame" 
+Flash Erase Done.
+Flash Image Update Complete. 
+Beginning programming...
+Flash Program Done: 108 bytes programmed.
+Checksum:0x29ba
+Flash Verify Done: 108 bytes verified.
+Rebuild target 'Target 1'
+compiling ProgettoLivellaTemperauraEsame.c...
+linking...
+Program Size: data=9.0 xdata=0 code=111
+"ProgettoLivellaTeperaturaEsame" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\Giorgio\\Dropbox\\project\\EMBEDDEDDDDDDDDD\\ProgettoLivellaTeperaturaEsame" 
+Flash Erase Done.
+Flash Image Update Complete. 
+Beginning programming...
+Flash Program Done: 111 bytes programmed.
+Checksum:0x2a4c
+Flash Verify Done: 111 bytes verified.
+Rebuild target 'Target 1'
+compiling ProgettoLivellaTemperauraEsame.c...
+..\Sistemi Embended\ProgettoLivellaTemperauraEsame.c(15): warning C206: 'LCD_write': missing function-prototype
+linking...
+Program Size: data=9.0 xdata=0 code=117
+"ProgettoLivellaTeperaturaEsame" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\Giorgio\\Dropbox\\project\\EMBEDDEDDDDDDDDD\\ProgettoLivellaTeperaturaEsame" 
+Flash Erase Done.
+Flash Image Update Complete. 
+Beginning programming...
+Flash Program Done: 117 bytes programmed.
+Checksum:0x2c2e
+Flash Verify Done: 117 bytes verified.
+Rebuild target 'Target 1'
+compiling ProgettoLivellaTemperauraEsame.c...
+..\Sistemi Embended\ProgettoLivellaTemperauraEsame.c(15): warning C206: 'LCD_write': missing function-prototype
+linking...
+Program Size: data=9.0 xdata=0 code=117
+"ProgettoLivellaTeperaturaEsame" - 0 Error(s), 1 Warning(s).
+Rebuild target 'Target 1'
+compiling ProgettoLivellaTemperauraEsame.c...
+..\Sistemi Embended\ProgettoLivellaTemperauraEsame.c(15): warning C206: 'LCD_write': missing function-prototype
+linking...
+Program Size: data=9.0 xdata=0 code=117
+"ProgettoLivellaTeperaturaEsame" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\Giorgio\\Dropbox\\project\\EMBEDDEDDDDDDDDD\\ProgettoLivellaTeperaturaEsame" 
+Flash Erase Done.
+Flash Image Update Complete. 
+Beginning programming...
+Flash Program Done: 117 bytes programmed.
+Checksum:0x2c2e
+Flash Verify Done: 117 bytes verified.
+Rebuild target 'Target 1'
+compiling ProgettoLivellaTemperauraEsame.c...
+..\Sistemi Embended\ProgettoLivellaTemperauraEsame.c(15): warning C206: 'LCD_write': missing function-prototype
+linking...
+Program Size: data=9.0 xdata=0 code=117
+"ProgettoLivellaTeperaturaEsame" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\Giorgio\\Dropbox\\project\\EMBEDDEDDDDDDDDD\\ProgettoLivellaTeperaturaEsame" 
+Flash Erase Done.
+Flash Image Update Complete. 
+Beginning programming...
+Flash Program Done: 117 bytes programmed.
+Checksum:0x2c2e
+Flash Verify Done: 117 bytes verified.
+Rebuild target 'Target 1'
+compiling ProgettoLivellaTemperauraEsame.c...
+..\Sistemi Embended\ProgettoLivellaTemperauraEsame.c(15): warning C206: 'LCD_write': missing function-prototype
+linking...
+Program Size: data=9.0 xdata=0 code=117
+"ProgettoLivellaTeperaturaEsame" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\Giorgio\\Dropbox\\project\\EMBEDDEDDDDDDDDD\\ProgettoLivellaTeperaturaEsame" 
+Flash Erase Done.
+Flash Image Update Complete. 
+Beginning programming...
+Flash Program Done: 117 bytes programmed.
+Checksum:0x2c2e
+Flash Verify Done: 117 bytes verified.
+Rebuild target 'Target 1'
+compiling ProgettoLivellaTemperauraEsame.c...
+linking...
+Program Size: data=9.0 xdata=0 code=117
+"ProgettoLivellaTeperaturaEsame" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\Giorgio\\Dropbox\\project\\EMBEDDEDDDDDDDDD\\ProgettoLivellaTeperaturaEsame" 
+Flash Erase Done.
+Flash Image Update Complete. 
+Beginning programming...
+Flash Program Done: 117 bytes programmed.
+Checksum:0x2c2e
+Flash Verify Done: 117 bytes verified.
+Load "C:\\Users\\Giorgio\\Dropbox\\project\\EMBEDDEDDDDDDDDD\\ProgettoLivellaTeperaturaEsame" 
+Flash Erase Done.
+Flash Image Update Complete. 
+Beginning programming...
+Flash Program Done: 117 bytes programmed.
+Checksum:0x2c2e
+Flash Verify Done: 117 bytes verified.
+Rebuild target 'Target 1'
+compiling ProgettoLivellaTemperauraEsame.c...
+..\Sistemi Embended\ProgettoLivellaTemperauraEsame.c(23): error C202: 'EIE': undefined identifier
+..\Sistemi Embended\ProgettoLivellaTemperauraEsame.c(29): error C202: 'LCD_addrss': undefined identifier
+Target not created
+Load "C:\\Users\\Giorgio\\Dropbox\\project\\EMBEDDEDDDDDDDDD\\ProgettoLivellaTeperaturaEsame" 
+_____^
+*** error 56: can't open file
+Rebuild target 'Target 1'
+compiling ProgettoLivellaTemperauraEsame.c...
+..\Sistemi Embended\ProgettoLivellaTemperauraEsame.c(23): error C202: 'EIE': undefined identifier
+Target not created
+Rebuild target 'Target 1'
+compiling ProgettoLivellaTemperauraEsame.c...
+..\Sistemi Embended\ProgettoLivellaTemperauraEsame.c(23): error C202: 'EIE': undefined identifier
+Target not created
+Rebuild target 'Target 1'
+compiling ProgettoLivellaTemperauraEsame.c...
+..\Sistemi Embended\ProgettoLivellaTemperauraEsame.c(29): warning C206: 'SM_send': missing function-prototype
+..\Sistemi Embended\ProgettoLivellaTemperauraEsame.c(29): error C267: 'SM_send': requires ANSI-style prototype
+..\Sistemi Embended\ProgettoLivellaTemperauraEsame.c(29): error C141: syntax error near ';'
+..\Sistemi Embended\ProgettoLivellaTemperauraEsame.c(29): error C141: syntax error near ','
+..\Sistemi Embended\ProgettoLivellaTemperauraEsame.c(29): error C141: syntax error near ')'
+Target not created
+Rebuild target 'Target 1'
+compiling ProgettoLivellaTemperauraEsame.c...
+..\Sistemi Embended\ProgettoLivellaTemperauraEsame.c(30): error C141: syntax error near ';'
+Target not created
+Rebuild target 'Target 1'
+compiling ProgettoLivellaTemperauraEsame.c...
+..\Sistemi Embended\ProgettoLivellaTemperauraEsame.c(30): error C141: syntax error near ';'
+Target not created
+Rebuild target 'Target 1'
+compiling ProgettoLivellaTemperauraEsame.c...
+..\Sistemi Embended\ProgettoLivellaTemperauraEsame.c(38): error C141: syntax error near ';'
+Target not created
+Rebuild target 'Target 1'
+compiling ProgettoLivellaTemperauraEsame.c...
+..\Sistemi Embended\ProgettoLivellaTemperauraEsame.c(38): error C141: syntax error near ';'
+Target not created
